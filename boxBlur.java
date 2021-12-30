@@ -37,6 +37,6 @@ int[][] solution(int[][] image) {
             array[r][c] = sum;
         }
     }
-    
+   
     return array;  
 }
