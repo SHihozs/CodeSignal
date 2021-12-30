@@ -32,7 +32,7 @@ int[][] solution(int[][] image) {
                     col = c;
                 }
             }
-            
+           
             sum = sum/9;
             array[r][c] = sum;
         }
