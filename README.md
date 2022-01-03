@@ -51,13 +51,13 @@
 | 13 | reverseInParentheses     | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/03%7C%20Smooth%20Sailing/13%7C%20reverseInParentheses.java) |
 
 
-### ⚓ [Exploring the Waters](https://github.com/SHihozs/CodeSignal/tree/main/Intro/Exploring%20the%20Waters)
+### ⚓ [Exploring the Waters](https://github.com/SHihozs/CodeSignal/tree/main/Intro/04%7C%20Exploring%20the%20Waters)
 
 
 | No | Problem                  | Solution                   |
 |----| ------------------------ | -------------------------- |
-| 14 | alternatingSums          | [่java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/Exploring%20the%20Waters/14%7C%20alternatingSums.java)|
-| 15 | Add Border               | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/Exploring%20the%20Waters/15%7C%20Add%20Border.java) |
-| 16 | Are Similar?             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/Exploring%20the%20Waters/16%7C%20Are%20Similar%3F.java) |
-| 17 | arrayChange              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/Exploring%20the%20Waters/17%7C%20arrayChange.java) |
-| 18 | palindromeRearranging    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/Exploring%20the%20Waters/18%7C%20palindromeRearranging.java) |
+| 14 | alternatingSums          | [่java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/14%7C%20alternatingSums.java)|
+| 15 | Add Border               | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/15%7C%20Add%20Border.java) |
+| 16 | Are Similar?             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/16%7C%20Are%20Similar%3F.java) |
+| 17 | arrayChange              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/17%7C%20arrayChange.java) |
+| 18 | palindromeRearranging    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/18%7C%20palindromeRearranging.java) |
