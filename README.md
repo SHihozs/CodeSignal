@@ -1,11 +1,14 @@
-## CODE SIGNAL
+## INDEX
 
-## 💖 Authors
+<!-- option -->
+- [**Introduction**](#introduction)
+
+## AUTHORS
 - [SHihozs](https://github.com/SHihozs)
 - My profile on [Codesignal](https://app.codesignal.com/profile/shihozs)
  
 
-## 🌟 **Intro**
+## **INTRODUCTION**
 
 ### 🌤️ [The Journey Begins](https://github.com/SHihozs/CodeSignal/tree/main/Intro/01%7C%20The%20Journey%20Begins)
 
