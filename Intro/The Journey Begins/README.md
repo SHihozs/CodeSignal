@@ -27,7 +27,7 @@ int solution(int year) {
     else{
         return year/100;
     } 
-}
+} 
 ```
 
 ## 03| checkPalindrome
