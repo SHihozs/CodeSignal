@@ -30,7 +30,7 @@ For `n = 3`, the output should be `solution(n) = 13`.
 
 #### Solution
 ```java
-int solution(int n) {
+int solution(int n) { 
     if(n!=0){
         return (n*n) + ((n-1)*(n-1)) ; 
     }
