@@ -61,3 +61,41 @@
 | 16 | Are Similar?             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/16%7C%20Are%20Similar%3F.java) |
 | 17 | arrayChange              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/17%7C%20arrayChange.java) |
 | 18 | palindromeRearranging    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/18%7C%20palindromeRearranging.java) |
+
+
+### 🏝️ [Island of Knowledge](https://github.com/SHihozs/CodeSignal/tree/main/Intro/05%7C%20Island%20of%20Knowledge) 
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 19 | areEquallyStrong         | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/19%7C%20areEquallyStrong.java)|
+| 20 | arrayMaximalAdjacentDifference| [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/20%7C%20arrayMaximalAdjacentDifference.java)|
+| 21 | isIPv4Address            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/21%7C%20isIPv4Address.java) |
+| 22 | avoidObstacles           | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/22%7C%20avoidObstacles.java) |
+| 23 | Box Blur                 | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/23%7C%20BoxBlur.java) |
+| 24 | Minesweeper              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/05%7C%20Island%20of%20Knowledge/24%7C%20Minesweeper) |
+
+
+### 🌧️ [Rains of Reason](https://github.com/SHihozs/CodeSignal/tree/main/Intro/06%7C%20Rains%20of%20Reason)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 25 | Array Replace            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/06%7C%20Rains%20of%20Reason/25%7C%20Array%20Replace.java)|
+| 26 | evenDigitsOnly           | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/06%7C%20Rains%20of%20Reason/26%7C%20evenDigitsOnly.java) |
+| 27 | variableName             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/06%7C%20Rains%20of%20Reason/27%7C%20variableName.java) |
+| 28 | alphabeticShift          | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/06%7C%20Rains%20of%20Reason/28%7C%20alphabeticShift.java) |
+| 29 | chessBoardCellColor      | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/06%7C%20Rains%20of%20Reason/29%7C%20chessBoardCellColor.java) |
+
+
+### 🌁 [Through the Fog](https://github.com/SHihozs/CodeSignal/tree/main/Intro/07%7C%20Through%20the%20Fog)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 30 | Circle of Numbers        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/07%7C%20Through%20the%20Fog/30%7C%20Circle%20of%20Numbers.java)|
+| 31 | depositProfit            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/07%7C%20Through%20the%20Fog/31%7C%20depositProfit.java) |
+| 32 | absoluteValuesSumMinimization|[java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/07%7C%20Through%20the%20Fog/32%7C%20absoluteValuesSumMinimization.java)|
+| 33 | stringsRearrangement     | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/07%7C%20Through%20the%20Fog/33%7C%20stringsRearrangement.java) |
+
+
