@@ -5,17 +5,17 @@
 <img src="https://img.shields.io/github/watchers/SHihozs/CodeSignal?style=for-the-badge&color=<red>">
 </p>
 
-## INDEX
-
-<!-- option -->
-- [**Introduction**](#introduction)
-
 ## AUTHORS
 - [SHihozs](https://github.com/SHihozs)
 - My profile on [Codesignal](https://app.codesignal.com/profile/shihozs)
- 
 
-## **INTRODUCTION**
+## INDEX
+
+<!-- option 
+- [**Introduction**](#introduction) -->
+ 
+<details>
+ <summary><b> Introduction </b></summary>
 
 ### 🌤️ [The Journey Begins](https://github.com/SHihozs/CodeSignal/tree/main/Intro/01%7C%20The%20Journey%20Begins)
 
@@ -159,3 +159,32 @@
 | 58 | messageFromBinaryCode    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/58%7C%20messageFromBinaryCode.java)|
 | 59 | spiralNumbers            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/59%7C%20spiralNumbers.java) |
 | 60 | Sudoku                   | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/60%7C%20Sudoku.java) |
+
+ </details> <!-- Introduction -->
+ 
+ 
+<details>
+ <summary><b> Interview Practice </b></summary>
+ 
+ 
+ ### 🌤️ [Arrays](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/01%7C%20Arrays)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 01 | firstDuplicate           | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/01%7C%20Arrays/01%7C%20firstDuplicate.java)|
+| 02 | firstNotRepeatingCharacter | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/01%7C%20Arrays/02%7C%20firstNotRepeatingCharacter.java) |
+| 03 | rotateImage              | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/01%7C%20Arrays/03%7C%20rotateImage.java) |
+ 
+ 
+ ### 🌤️ [Common Techniques Basic](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/08%7C%20common_techniques_basic)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 01 | containsDuplicates       | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/08%7C%20common_techniques_basic/01%7C%20containsDuplicates.java)|
+| 02 | sumOfTwo                 | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/08%7C%20common_techniques_basic/02%7C%20sumOfTwo.java) |
+ 
+ 
+ 
+</details> <!-- Interview Practice -->
