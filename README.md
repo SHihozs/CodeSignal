@@ -110,3 +110,13 @@
 | 37 | arrayMaxConsecutiveSum   | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/08%7C%20Diving%20Deeper/37%7C%20arrayMaxConsecutiveSum.java) |
 
 
+### 🌲 [Dark Wilderness](https://github.com/SHihozs/CodeSignal/tree/main/Intro/09%7C%20Dark%20Wilderness)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 38 | growingPlant             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/38%7C%20growingPlant.java)|
+| 39 | Knapsack Light           | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/39%7C%20Knapsack%20Light.java) |
+| 40 | longestDigitsPrefix      | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/40%7C%20longestDigitsPrefix.java)|
+| 41 | digitDegree              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/41%7C%20digitDegree.java) |
+| 42 | Bishop and Pawn          | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/42%7C%20Bishop%20and%20Pawn.java) |
