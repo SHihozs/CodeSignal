@@ -63,7 +63,7 @@
 | 18 | palindromeRearranging    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/04%7C%20Exploring%20the%20Waters/18%7C%20palindromeRearranging.java) |
 
 
-### 🏝️ [Island of Knowledge](https://github.com/SHihozs/CodeSignal/tree/main/Intro/05%7C%20Island%20of%20Knowledge) 
+### 📚 [Island of Knowledge](https://github.com/SHihozs/CodeSignal/tree/main/Intro/05%7C%20Island%20of%20Knowledge) 
 
 
 | No | Problem                  | Solution                   |
@@ -120,3 +120,42 @@
 | 40 | longestDigitsPrefix      | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/40%7C%20longestDigitsPrefix.java)|
 | 41 | digitDegree              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/41%7C%20digitDegree.java) |
 | 42 | Bishop and Pawn          | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/09%7C%20Dark%20Wilderness/42%7C%20Bishop%20and%20Pawn.java) |
+
+
+### 🌋 [Eruption of Light](https://github.com/SHihozs/CodeSignal/tree/main/Intro/10%7C%20Eruption%20of%20Light)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 43 | isBeautifulString        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/10%7C%20Eruption%20of%20Light/43%7C%20isBeautifulString.java)|
+| 44 | Find Email Domain        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/10%7C%20Eruption%20of%20Light/44%7C%20Find%20Email%20Domain.java) |
+| 45 | buildPalindrome          | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/10%7C%20Eruption%20of%20Light/45%7C%20buildPalindrome.java)|
+| 46 | Elections Winners        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/10%7C%20Eruption%20of%20Light/46%7C%20Elections%20Winners.java) |
+| 47 | Is MAC48 Address?        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/10%7C%20Eruption%20of%20Light/47%7C%20Is%20MAC48%20Address%3F.java) |
+
+
+### 🌈 [Rainbow of Clarity](https://github.com/SHihozs/CodeSignal/tree/main/Intro/11%7C%20Rainbow%20of%20Clarity)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 48 | isDigit                  | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/11%7C%20Rainbow%20of%20Clarity/48%7C%20isDigit.java)|
+| 49 | lineEncoding             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/11%7C%20Rainbow%20of%20Clarity/49%7C%20lineEncoding.java) |
+| 50 | chessKnight              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/11%7C%20Rainbow%20of%20Clarity/50%7C%20chessKnight)|
+| 51 | deleteDigit              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/11%7C%20Rainbow%20of%20Clarity/51%7C%20deleteDigit.java) |
+
+
+### 🏝️ [Land of Logic](https://github.com/SHihozs/CodeSignal/tree/main/Intro/12%7C%20Land%20of%20Logic)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 52 | longestWord              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/52%7C%20longestWord.java)|
+| 53 | Valid Time               | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/53%7C%20Valid%20Time.java) |
+| 54 | sumUpNumbers             | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/54%7C%20sumUpNumbers.java)|
+| 55 | Different Squares        | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/55%7C%20DifferentSquares.java) |
+| 56 | digitsProduct            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/56%7C%20digitsProduct.java)|
+| 57 | File Naming              | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/57%7C%20File%20Naming.java) |
+| 58 | messageFromBinaryCode    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/58%7C%20messageFromBinaryCode.java)|
+| 59 | spiralNumbers            | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/59%7C%20spiralNumbers.java) |
+| 60 | Sudoku                   | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/12%7C%20Land%20of%20Logic/60%7C%20Sudoku.java) |
