@@ -163,11 +163,40 @@
  </details> <!-- Introduction -->
  
  
+ <details>
+ <summary><b> The Core </b></summary>
+ 
+ ### ⛩️ [Intro Gates](https://github.com/SHihozs/CodeSignal/tree/main/TheCore/01%7C%20Intro%20Gates)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 01 | Add Two Digits           | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/01%7C%20Add%20Two%20Digits.java)|
+| 02 | Largest Number           | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/02%7C%20Largest%20Number.java) |
+| 03 | Candies                  | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/03%7C%20Candies.java) |
+| 04 | Seats in Theater         | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/04%7C%20Seats%20in%20Theater.java)|
+| 05 | Max Multiple             | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/05%7C%20Max%20Multiple.java) |
+| 06 | Circle of Numbers        | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/06%7C%20Circle%20of%20Numbers.java) |
+| 07 | Late Ride                | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/07%7C%20Late%20Ride.java) |
+| 08 | Phone Call               | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/01%7C%20Intro%20Gates/08%7C%20Phone%20Call.java) |
+ 
+ ### 🛣️ [At the Crossroads](https://github.com/SHihozs/CodeSignal/tree/main/TheCore/02%7C%20At%20the%20Crossroads)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 09 | Reach Next Level         | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/09%7C%20Reach%20Next%20Level.java)|
+| 10 | Knapsack Light           | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/10%7C%20Knapsack%20Light.java) |
+| 11 | Extra Number             | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/11%7C%20Extra%20Number.java) |
+ 
+ </details> <!-- The Core -->
+  
+  
 <details>
  <summary><b> Interview Practice </b></summary>
  
  
- ### 🌤️ [Arrays](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/01%7C%20Arrays)
+ ### 🎈 [Arrays](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/01%7C%20Arrays)
 
 
 | No | Problem                  | Solution                   |
@@ -177,7 +206,7 @@
 | 03 | rotateImage              | [java](https://github.com/SHihozs/CodeSignal/blob/main/InterviewPractice/01%7C%20Arrays/03%7C%20rotateImage.java) |
  
  
- ### 🌤️ [Common Techniques Basic](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/08%7C%20common_techniques_basic)
+ ### 🎀 [Common Techniques Basic](https://github.com/SHihozs/CodeSignal/tree/main/InterviewPractice/08%7C%20common_techniques_basic)
 
 
 | No | Problem                  | Solution                   |
