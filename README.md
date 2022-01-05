@@ -99,3 +99,14 @@
 | 33 | stringsRearrangement     | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/07%7C%20Through%20the%20Fog/33%7C%20stringsRearrangement.java) |
 
 
+### 🤿 [Diving Deeper](https://github.com/SHihozs/CodeSignal/tree/main/Intro/08%7C%20Diving%20Deeper)
+
+
+| No | Problem                  | Solution                   |
+|----| ------------------------ | -------------------------- |
+| 34 | extractEachKth           | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/08%7C%20Diving%20Deeper/34%7C%20extractEachKth.java)|
+| 35 | firstDigit               | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/08%7C%20Diving%20Deeper/35%7C%20firstDigit.java) |
+| 36 | differentSymbolsNaive    | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/08%7C%20Diving%20Deeper/36%7C%20differentSymbolsNaive.java)|
+| 37 | arrayMaxConsecutiveSum   | [java](https://github.com/SHihozs/CodeSignal/blob/main/Intro/08%7C%20Diving%20Deeper/37%7C%20arrayMaxConsecutiveSum.java) |
+
+
