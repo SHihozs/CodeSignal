@@ -1,0 +1,42 @@
+int solution(String cell) 
+{
+    int row = (int) cell.charAt(0) - 96; //a=1
+    int col = (int) cell.charAt(1) - 48; //1=1
+
+    int move = 0;
+
+    if(row + 1 <= 8 && col + 2 <= 8)
+    {
+        move++;
+    }
+    if(row + 2 <= 8 && col + 1 <= 8)
+    {
+        move++;
+    }
+    if(row - 1 >= 1 && col + 2 <= 8)
+    {
+        move++;
+    }
+    if(row - 2 >= 1 && col + 1 <= 8)
+    {
+        move++;
+    }
+    if(row - 1 >= 1 && col - 2 >= 1)
+    {
+        move++;
+    }
+    if(row - 2 >= 1 && col - 1 >= 1)
+    {
+        move++;
+    }
+    if(row + 1 <= 8 && col - 2 >= 1)
+    {
+        move++;
+    }
+    if(row + 2 <= 8 && col - 1 >= 1)
+    {
+        move++;
+    }
+
+    return move;
+}
