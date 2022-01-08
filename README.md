@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/github/commit-activity/y/SHihozs/CodeSignal?style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/SHihozs/CodeSignal?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/tokei/lines/github/SHihozs/CodeSignal?style=for-the-badge">
-<img src="https://img.shields.io/github/watchers/SHihozs/CodeSignal?style=for-the-badge&color=<red>">
+<!--<img src="https://img.shields.io/github/watchers/SHihozs/CodeSignal?style=for-the-badge&color=<red>"> -->
 </p>
 
 ## AUTHORS
