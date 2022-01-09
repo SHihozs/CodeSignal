@@ -188,6 +188,11 @@
 | 09 | Reach Next Level         | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/09%7C%20Reach%20Next%20Level.java)|
 | 10 | Knapsack Light           | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/10%7C%20Knapsack%20Light.java) |
 | 11 | Extra Number             | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/11%7C%20Extra%20Number.java) |
+| 12 | Is Infinite Process?     | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/12%7C%20Is%20Infinite%20Process%3F.java)|
+| 13 | Arithmetic Expression    | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/13%7C%20Arithmetic%20Expression.java) |
+| 14 | Tennis Set               | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/14%7C%20Tennis%20Set.java) |
+| 15 | Will You?                | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/15%7C%20Will%20You%3F.java)|
+| 16 | Metro Card               | [java](https://github.com/SHihozs/CodeSignal/blob/main/TheCore/02%7C%20At%20the%20Crossroads/16%7C%20Metro%20Card.java) |
  
  </details> <!-- The Core -->
   
